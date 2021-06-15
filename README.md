@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 👯 [@Bird-Buddy](https://github.com/Bird-Buddy) we are looking to hire backend engineers (typescript/nest.js/graphql/prisma.js). EU or Slovenia. If you are interested you can send me an email, or open issue :)
+
 <!--
 **mentos1386/mentos1386** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
